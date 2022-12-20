@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ananda Fidelis (@acfidelis-dev)
-- 🎓 Information and Communication Technology (ICT) Student, at IFPE
+- 🎓 Front End Web Development Student
 - 💻 I’m interested in UX/UI Design and Front End Web Development
 - 🌱 I’m currently learning UX/UI Design, HTML, CSS, JavaScript and Python.
 - 💞️ I’m looking to collaborate on projects with other developers. And build my own projects as well
